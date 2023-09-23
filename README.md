@@ -1,16 +1,14 @@
 # you_heal
 
-A new Flutter project.
+Flutter frontend for youHeal app made for Smart India Hackathon as a solution for Problem Statement 1363 - "Self Identifying Mental Health status" issued by the Ministry of Gujarat
 
-## Getting Started
+# Features
 
-This project is a starting point for a Flutter application.
+## Testing
 
-A few resources to get you started if this is your first Flutter project:
+This app will have a variety of psychiatric screening tests approved by psychologists such as PHQ-9 (Depression) and GAD-7 (Anxiety) and provide you with the results as well as a graph of your scores over time which we hope will help patients optimize their treatment plans
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Creating Tests
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Psychiatrists will be able to create customized tests for their patients to help monitor them more effectively
+
